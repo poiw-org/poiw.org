@@ -11,7 +11,7 @@ function HomepageHeader() {
   return (
     <header className={clsx('hero hero--secondaty', styles.heroBanner)}>
       <div className="container">
-        <img src='../static/img/logo.png' style={{
+        <img src={require('../../static/img/logo.png').default} style={{
           maxWidth: "150px"
         }}></img>
         <p className="hero__subtitle">~ hackerspace &amp; dev community</p>
