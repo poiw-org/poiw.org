@@ -47,6 +47,24 @@ const config = {
             position: 'left',
             label: 'Σχετικά με',
           },
+          {
+            type: 'doc',
+            docId: 'take-part/register',
+            position: 'left',
+            label: 'Συμμετοχή',
+          },
+          {
+            type: 'doc',
+            docId: 'portfolio/saffron',
+            position: 'left',
+            label: 'Έργα',
+          },
+          {
+            type: 'doc',
+            docId: 'equipment',
+            position: 'left',
+            label: 'Εξοπλισμός',
+          },
           {to: 'https://blog.poiw.org', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/poiw-org',
