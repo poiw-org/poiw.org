@@ -4,7 +4,7 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
-    title: 'Ένας χώρος εκώλαψης ιδεών.',
+    title: 'Ένας χώρος εκκόλαψης ιδεών.',
     src: require('../../static/img/light-bulb.png').default,
     description: (
       <>
