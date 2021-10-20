@@ -29,7 +29,7 @@ function HomepageHeader() {
               marginLeft: "10px"
             }}
             >
-            Τιναφτο;
+            Τι φάση;
           </Link>
         </div>
       </div>
