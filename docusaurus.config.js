@@ -49,7 +49,7 @@ const config = {
           },
           {
             type: 'doc',
-            docId: 'take-part/register',
+            docId: 'take-part/meetings',
             position: 'left',
             label: 'Συμμετοχή',
           },
@@ -61,11 +61,18 @@ const config = {
           },
           {
             type: 'doc',
+            docId: 'wifi',
+            position: 'left',
+            label: 'Wi-Fi',
+          },
+          {
+            type: 'doc',
             docId: 'equipment',
             position: 'left',
             label: 'Εξοπλισμός',
           },
           {to: 'https://blog.poiw.org', label: 'Blog', position: 'left'},
+          {to: 'https://poiw.eu.auth0.com/samlp/QaQQ0JqXFg7DCLbTvrMlYO9JPryOK45r', label: 'Δημιουργία po/iw ID', position: 'right'},
           {
             href: 'https://github.com/poiw-org',
             label: 'GitHub',
