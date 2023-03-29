@@ -49,7 +49,7 @@ const config = {
           },
           {
             type: 'doc',
-            docId: 'take-part/meetings',
+            docId: 'take-part/register',
             position: 'left',
             label: 'Συμμετοχή',
           },

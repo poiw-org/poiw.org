@@ -14,11 +14,11 @@ function HomepageHeader() {
         <img src={require('../../static/img/logo.png').default} style={{
           maxWidth: "150px"
         }}></img>
-        <p className="hero__subtitle">~ hackerspace &amp; dev community</p>
+        <p className="hero__subtitle">~ student makerspace @ <a href="https://hmu.gr" target="_blank">hmu</a>.</p>
         <div className={styles.buttons}>
         <Link
             className="button button--primary button--lg"
-            to="/docs/take-part/meetings">
+            to="/docs/take-part/register">
             Πάρε μέρος
           </Link>
 
