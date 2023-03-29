@@ -47,8 +47,8 @@ export default function Home() {
         <div style={{
             backgroundImage: "url('/img/bench.webp')",
             backgroundSize: "cover",
-            height: "100vh",
             backgroundPosition: "bottom",
+            minHeight: "100vh",
           }}>
           <HomepageHeader />
           <main>
